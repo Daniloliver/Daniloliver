@@ -1,5 +1,5 @@
-### Olá 👋, eu sou Danilo de Oliveira! 👨‍💻
----
+## Olá 👋, eu sou Danilo de Oliveira! 👨‍💻
+
 
 ### Sobre Mim
 
@@ -11,10 +11,28 @@ Durante o período na área militar, conseguir adquirir soft skills que se adequ
 
 Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criatividade e segue o caminho da inovação, o que me desafia a sair da "zona de conforto".
 
+
+
 ---
 
+### Ferramentas Utilizadas
+
+- 
+-
+-
+-
+-
+-
+-
+
+### Minhas informações no Github
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniloliver&show_icons=true&theme=dark&title_color=4deb87&icon_color=4deb87)
 
 
+### Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4deb87)](https://www.linkedin.com/in/danilo-de-oliveira-/)
 
 
 
