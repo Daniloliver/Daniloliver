@@ -27,7 +27,7 @@ Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criat
 
 ### Minhas informações no Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniloliver&show_icons=true&theme=dark&title_color=4deb87&icon_color=4deb87)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniloliver&show_icons=true&theme=dark&title_color=4deb87&icon_color=4deb87&bg_color=000)
 
 
 ### Entre em Contato
