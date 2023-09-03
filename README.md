@@ -7,7 +7,7 @@ Formado em Técnico em Informática e atualmente cursando a graduação de Anali
 
 Estou em transição de carreira após 08 anos trabalhando na parte administrativa da Força Aérea Brasileira.
 
-Durante o período na área militar, conseguir adquirir soft skills que se adequam na área da tecnologia.
+Durante o período na área militar, adquirir soft skills que se adequam na área da tecnologia.
 
 Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criatividade e segue o caminho da inovação, o que me desafia a sair da "zona de conforto".
 
