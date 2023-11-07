@@ -5,7 +5,7 @@
 
 Formado em Técnico em Informática e atualmente cursando a graduação de Analise e Desenvolvimento de Sistemas.
 
-Estou em transição de carreira após 08 anos trabalhando na parte administrativa da Força Aérea Brasileira.
+Estou em transição de carreira após 08 anos trabalhando na parte administrativa da Força Aérea Brasileira para Analise de Dados 👋.
 
 Durante o período na área militar, adquirir soft skills que se adequam na área da tecnologia.
 
@@ -17,12 +17,11 @@ Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criat
 
 ### Ferramentas Utilizadas
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php) ![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=MYSQL) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+ ![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=MYSQL) 
+ ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+ ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=python)
 
 
 ### Minhas informações no Github
