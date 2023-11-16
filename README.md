@@ -1,11 +1,11 @@
-## Olá 👋, eu sou Danilo de Oliveira! 👨‍💻
+## Olá 👋, eu sou o Danilo de Oliveira! 👨‍💻
 
 
 ### Sobre Mim
 
 Formado em Técnico em Informática e atualmente cursando a graduação de Analise e Desenvolvimento de Sistemas.
 
-Estou em transição de carreira após 08 anos trabalhando na parte administrativa da Força Aérea Brasileira para Analise de Dados 👋.
+Estou em transição de carreira após 08 anos trabalhando na parte administrativa da Força Aérea Brasileira para área de  Analise de Dados 👋.
 
 Durante o período na área militar, adquirir soft skills que se adequam na área da tecnologia.
 
@@ -21,7 +21,8 @@ Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criat
 
  ![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=MYSQL) 
  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
- ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=python)
+ ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=PowerBI)
+  ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)
 
 
 ### Minhas informações no Github
@@ -31,7 +32,7 @@ Sou um entusiasta pela tecnologia, porque ela proporciona a praticidade, a criat
 
 ### Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=4deb87)](https://www.linkedin.com/in/danilo-de-oliveira-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1E90FF)](https://www.linkedin.com/in/danilo-de-oliveira-/)
 
 
 
